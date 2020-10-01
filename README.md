@@ -1,4 +1,4 @@
-# TCL script to write tag config on demand
+# TCL script to write AP tag config on demand on Cisco Cat9800
 
 ![](tcl_write_tag.gif)
 
